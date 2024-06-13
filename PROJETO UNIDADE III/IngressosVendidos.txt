@@ -1,0 +1,2 @@
+---------------------------- INGRESSOS VENDIDOS ----------------------------
+Filme: FILME BOM | Ingressos vendidos: 4 | Ingressos disponíveis: 6 | 
