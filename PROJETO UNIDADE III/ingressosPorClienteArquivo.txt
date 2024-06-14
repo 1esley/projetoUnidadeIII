@@ -1,0 +1,7 @@
+---------------------------- INGRESSOS COMPRADOS ----------------------------
+Cliente: wesleyetsc2021@gmail.com
+-----------------------------------------------------------------
+Filme escolhido: FILME BOM | Valor do(s) ingresso(s): R$ 79.96
+Lanche: Hambúrguer + Refri GPFresco | Preço do lanche: R$ 11.99
+-----------------------------------------------------------------
+Preço total: R$ 91.95
